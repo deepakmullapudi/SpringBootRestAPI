@@ -8,7 +8,7 @@ public class SpringBootRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiApplication.class, args);
-		System.out.println("Welcome to Spring RESTAPI");
+		System.out.println("Welcome to Spring Boot RESTAPI");
 	}
 
 }
